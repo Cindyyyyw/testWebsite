@@ -45,5 +45,5 @@ input.mbgr-input[readonly] {
 .et-db #et-boc .et-l .et-fb-modules-list .mbdi_cloneable:before {
   height: 16px;
   transform: scale(.5);
-  content: url('https://sunho-art.com/wp-content/plugins/meta-box-lite/modules/mb-divi-integrator/includes/fields/Input/logo.png');
+  content: url('/wp-content/plugins/meta-box-lite/modules/mb-divi-integrator/includes/fields/Input/logo.png');
 }
